@@ -1,0 +1,14 @@
+*.aux
+*.tex
+*.bib
+*.pdf
+/cxns
+/cxns2
+*.fdb_latexmk
+*.fls
+*.log
+*.gz
+*.zip
+*.bbl
+*.blg
+*.toc
